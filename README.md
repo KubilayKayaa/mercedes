@@ -1,2 +1,1 @@
-# mercedes
- mercedes
+https://mercedessz.netlify.app/
